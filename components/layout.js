@@ -54,7 +54,7 @@ export default function Layout({
             <Link href='/'>
               <Image
                 priority
-                src='/images/profile.g'
+                src='/images/profile.jpeg'
                 className={
                   utilStyles.borderCircle
                 }
